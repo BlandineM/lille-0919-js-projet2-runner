@@ -15,7 +15,7 @@ Valentin Faucon - val-fcn/github<br/>
 Matthieu Hubert - nassilio/ github<br/>
 Léo Diduch - LeoDiduch/github<br/>
 Adrien Imberdis - Adwarf14/github<br/>
-Blandine Mallart - Harley Burton/github.
+Blandine Mallart - BlandineM/github.
 
 ## Pour qui? 
 Le projet a été crée pour : <br/>
